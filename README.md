@@ -110,7 +110,7 @@ Finance SaaS platform with secure bank integrations, transaction tracking, and t
 
 # 🌐 Connect
 
-- Portfolio: yourportfolio.com
+- Portfolio: https://karthikvanam.vercel.app/
 - LinkedIn: https://linkedin.com/in/karthikvanam
 - GitHub: https://github.com/vanamkarthiknetha
 - Email: vanamkarthiknetha@gmail.com
