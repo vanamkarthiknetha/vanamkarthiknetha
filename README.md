@@ -41,7 +41,7 @@ Docker • AWS • GCP • GitHub Actions
 # 💼 Experience
 
 ## Full Stack Engineer — Attack Capital (YC W22)
-**Oct 2025 — Present**
+**September 2025 — October 2025**
 
 - Built AI voice workflows with warm transfer systems, IVR navigation, voicemail detection, and configurable automation pipelines
 - Improved call automation efficiency by ~40%
